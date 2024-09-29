@@ -12,10 +12,6 @@ The **Love Calculator** is a fun web app that calculates compatibility between t
 
 The calculation is entirely for fun, providing users with a playful result each time they try different name combinations!
 
----
-
-This version gives a brief technical breakdown of how the project works while keeping it light and fun!
-
 #Additional Resources
 •Explore the [Codemun YouTube channel ](https://youtu.be/TxyWL_f9WTs?si=cVzuU38Fgud1NaP0_)for coding tutorials.
 
